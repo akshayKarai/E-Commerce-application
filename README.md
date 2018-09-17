@@ -1,3 +1,5 @@
+#E-Commerce Application
+
 •	Agile Methodology Scrum is used for software development.
 •	Spring boot framework, Hibernate ORM were used.
 •	MVC (Model View Controller) design pattern was used.
