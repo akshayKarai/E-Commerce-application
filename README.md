@@ -1,4 +1,4 @@
-#E-Commerce Application
+## E-Commerce Application
 
 •	Agile Methodology Scrum is used for software development.
 
