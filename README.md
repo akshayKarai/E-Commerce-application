@@ -11,4 +11,5 @@
 •	The idea was to allow the seller to define a pre-written set of rules for price negotiation so that e-commerce would be more useful for customer and the seller.
 		
 Development tool: Eclipse
+
 Database: MySQL
