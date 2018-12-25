@@ -7,15 +7,15 @@
 - Read (Mockito)[https://site.mockito.org/]
 
 ```
-•	Agile Methodology Scrum is used for software development.
+- Agile Methodology Scrum is used for software development.
 
-•	Spring boot framework, Hibernate ORM were used.
+- Spring boot framework, Hibernate ORM were used.
 
-•	MVC (Model View Controller) design pattern was used.
+- MVC (Model View Controller) design pattern was used.
 
-•	Test cases were written using jUnit and Mockito.
+- Test cases were written using jUnit and Mockito.
 
-•	The idea was to allow the seller to define a pre-written set of rules for price negotiation so that e-commerce would be more useful for customer and the seller.
+- The idea was to allow the seller to define a pre-written set of rules for price negotiation so that e-commerce would be more useful for customer and the seller.
 ```
 
 Development tool: Eclipse, MySQL workbench.
