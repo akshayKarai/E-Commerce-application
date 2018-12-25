@@ -1,10 +1,12 @@
 ## E-Commerce Application
 
+```
 - Read more about Spring boot (here)[http://spring.io/projects/spring-boot]
 - Read more about hibernate (here)[http://hibernate.org/]
 
 - Read (jUnit)[https://junit.org/junit5/]
 - Read (Mockito)[https://site.mockito.org/]
+```
 
 •	Agile Methodology Scrum is used for software development.
 
